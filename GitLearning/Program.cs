@@ -10,6 +10,7 @@ namespace GitLearning
         static void Main(string[] args)
         {
             Console.WriteLine("added 1st line");
+            Console.WriteLine("added 2st line");
         }
     }
 }
