@@ -1,0 +1,5 @@
+C:\Users\Vamsi\Desktop\gitLearning\GitLearning\bin\Debug\GitLearning.exe
+C:\Users\Vamsi\Desktop\gitLearning\GitLearning\bin\Debug\GitLearning.pdb
+C:\Users\Vamsi\Desktop\gitLearning\GitLearning\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vamsi\Desktop\gitLearning\GitLearning\obj\x86\Debug\GitLearning.exe
+C:\Users\Vamsi\Desktop\gitLearning\GitLearning\obj\x86\Debug\GitLearning.pdb
