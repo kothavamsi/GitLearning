@@ -13,7 +13,7 @@ namespace GitLearning
             Console.WriteLine("added 2st line");
             Console.WriteLine("added third line");
             Console.WriteLine("added 4th line");
-            Console.WriteLine("added 6th line");
+            Console.WriteLine("this ruined");
 
         }
     }
